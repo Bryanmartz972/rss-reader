@@ -5,11 +5,10 @@ module.exports = {
   ],
   theme: {
     colors: {
-      'primary': '#4e7e94',
-      'secondary': '#ff834d',
-      'tertiary': '#a0c9dd',
-      'black': '#0c0c26',
-      'white': '#e5ecf4',
+      'primary': '#8099e9',
+      'secondary': '#e99dcb',
+      'black': '#17142f',
+      'white': '#ffffff',
     }
   },
   plugins: [],
