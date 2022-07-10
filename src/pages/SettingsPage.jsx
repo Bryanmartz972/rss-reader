@@ -1,7 +1,10 @@
+import Navigation from '../components/Navigation'
 const SettingsPage = () => {
-  return (
-    <div>SettingsPage</div>
-  )
+	return (
+		<div>
+			<Navigation />
+		</div>
+	)
 }
 
 export default SettingsPage

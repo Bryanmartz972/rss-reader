@@ -1,7 +1,11 @@
+import Navigation from "../components/Navigation"
+
 const BookmarksPage = () => {
   return (
-    <div>BookmarksPage</div>
-  )
+		<div>
+			<Navigation />
+		</div>
+	)
 }
 
 export default BookmarksPage
